@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hey, I'm Arunesh Kumar – your frontend maestro, cooking up cool vibes with HTML, CSS, JavaScript, React, Redux, and Node. Currently, I'm spinning my code magic on indie projects and hunting for new opportunities to level up. Let's chat about making the web a funkier place! 🚀✨
+<br>Greetings, I'm Arunesh Kumar, a frontend developer adept in crafting engaging experiences using HTML, CSS, JavaScript, React, Redux, and Node.js. Currently, I'm dedicating my skills to independent projects while seeking new opportunities to further enhance my expertise. I'm passionate about refining digital experiences and would be delighted to discuss how we can elevate the web to new heights. Let's connect and embark on a journey to create elegant solutions together!
 
 
 ## 🌐 Socials:
